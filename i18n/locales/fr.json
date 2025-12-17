@@ -1,0 +1,325 @@
+{
+    "nav": {
+        "services": "Services",
+        "solutions": "Solutions",
+        "clients": "Clients",
+        "templates": "Modèles",
+        "about": "À propos",
+        "contact": "Contact",
+        "getStarted": "Commencer"
+    },
+    "hero": {
+        "badge": "Solutions de développement basées sur le cloud",
+        "title": "Développement Web",
+        "titleHighlight": "Moderne",
+        "titleEnd": "Pour Votre Entreprise",
+        "description": "Nous construisons des applications web haute performance avec Next.js, React, MongoDB et GraphQL. Optimisées pour le SEO, la vitesse et l'évolutivité.",
+        "startProject": "Démarrer Votre Projet",
+        "viewSolutions": "Voir les Solutions",
+        "stats": {
+            "projects": "Projets Livrés",
+            "clients": "Clients Satisfaits",
+            "satisfaction": "Taux de Satisfaction"
+        },
+        "features": {
+            "nextjs": "Next.js & React",
+            "cloud": "Cloud Native",
+            "seo": "Optimisé SEO",
+            "graphql": "API GraphQL"
+        }
+    },
+    "services": {
+        "title": "Nos Services",
+        "subtitle": "Solutions de développement web complètes adaptées aux besoins de votre entreprise",
+        "ecommerce": {
+            "title": "Solutions E-Commerce",
+            "description": "Boutiques en ligne complètes avec paiements sécurisés, gestion des stocks et expériences de paiement fluides.",
+            "features": {
+                "payment": "Intégration de Paiement",
+                "product": "Gestion des Produits",
+                "analytics": "Analyses Clients"
+            }
+        },
+        "blog": {
+            "title": "Plateformes Blog & Contenu",
+            "description": "Systèmes de gestion de contenu dynamiques avec optimisation SEO et expériences lecteur engageantes.",
+            "features": {
+                "cms": "Intégration CMS",
+                "seo": "Optimisé SEO",
+                "analytics": "Analyses de Contenu"
+            }
+        },
+        "booking": {
+            "title": "Systèmes de Réservation",
+            "description": "Systèmes de rendez-vous et de réservation simplifiés avec intégration calendrier et notifications automatisées.",
+            "features": {
+                "calendar": "Synchronisation Calendrier",
+                "reminders": "Rappels Automatisés",
+                "payment": "Traitement des Paiements"
+            }
+        },
+        "presentation": {
+            "title": "Sites Web de Présentation",
+            "description": "Sites web modernes et responsives qui mettent en valeur votre marque avec des visuels époustouflants et des interactions fluides.",
+            "features": {
+                "responsive": "Design Responsive",
+                "fast": "Chargement Rapide",
+                "modern": "UI/UX Moderne"
+            }
+        },
+        "aiAssistant": {
+            "title": "Intégration d'Assistant IA",
+            "description": "Chatbots intelligents et assistants virtuels alimentés par une IA avancée pour améliorer l'engagement et le support utilisateur.",
+            "features": {
+                "nlp": "Traitement du Langage Naturel",
+                "24/7": "Disponibilité 24/7",
+                "learning": "Apprentissage Automatique"
+            }
+        },
+        "aiCustomer": {
+            "title": "Service Client IA",
+            "description": "Systèmes de support client automatisés avec réponses pilotées par IA, gestion des tickets et analyse de sentiment.",
+            "features": {
+                "automation": "Automatisation Intelligente",
+                "multilingual": "Support Multilingue",
+                "analytics": "Analyses de Comportement"
+            }
+        },
+        "items": {
+            "ecommerce": {
+                "title": "Solutions E-Commerce",
+                "description": "Boutiques en ligne complètes avec paiements sécurisés, gestion des stocks et expériences de paiement fluides."
+            },
+            "blog": {
+                "title": "Plateformes Blog & Contenu",
+                "description": "Systèmes de gestion de contenu dynamiques avec optimisation SEO et expériences lecteur engageantes."
+            },
+            "booking": {
+                "title": "Systèmes de Réservation",
+                "description": "Systèmes de rendez-vous et de réservation simplifiés avec intégration calendrier et notifications automatisées."
+            },
+            "presentation": {
+                "title": "Sites Web de Présentation",
+                "description": "Sites web modernes et responsives qui mettent en valeur votre marque avec des visuels époustouflants et des interactions fluides."
+            }
+        },
+        "seoTitle": "Optimisation SEO",
+        "seoDescription": "Techniques SEO avancées pour améliorer votre classement et visibilité dans les moteurs de recherche.",
+        "microTitle": "Micro-Optimisations",
+        "microDescription": "Ajustements de performance pour des temps de chargement ultra-rapides et une expérience utilisateur fluide."
+    },
+    "solutions": {
+        "title": "Nos Solutions",
+        "subtitle": "Stack technologique moderne et meilleures pratiques pour des résultats exceptionnels",
+        "clickForDetails": "Cliquez pour plus de détails →",
+        "modal": {
+            "detailedInfo": "Informations Détaillées",
+            "keyFeatures": "Métriques Clés & Avantages",
+            "whyMatters": "Pourquoi Cela Compte"
+        },
+        "tabs": {
+            "frontend": "Frontend",
+            "backend": "Backend",
+            "cloud": "Cloud & DevOps"
+        },
+        "frontend": {
+            "nextjs": "Rendu côté serveur et génération de sites statiques",
+            "react": "Développement d'interface composant par composant",
+            "typescript": "Développement avec typage fort",
+            "tailwind": "Styling utilitaire-first"
+        },
+        "backend": {
+            "nodejs": "Environnement d'exécution JavaScript",
+            "graphql": "Requêtes et mutations API efficaces",
+            "mongodb": "Base de données NoSQL flexible",
+            "rest": "Architecture API traditionnelle"
+        },
+        "cloud": {
+            "vercel": "Plateforme de déploiement Next.js",
+            "aws": "Services d'infrastructure cloud",
+            "atlas": "Hébergement de base de données cloud",
+            "cicd": "Pipelines de déploiement automatisés"
+        },
+        "performance": {
+            "title": "Performance Prioritaire",
+            "description": "Temps de chargement ultra-rapides grâce au code splitting, lazy loading et assets optimisés.",
+            "details": "Nous implémentons des techniques d'optimisation avancées incluant le rendu côté serveur, le code splitting, le lazy loading et l'optimisation d'images pour garantir un chargement en moins d'1 seconde.",
+            "whyMatters": "Des temps de chargement rapides impactent directement l'expérience utilisateur et les taux de conversion. Un délai d'1 seconde peut réduire les conversions jusqu'à 7 %, entraînant une perte de revenus significative.",
+            "metrics": {
+                "load": "Temps de Chargement < 1s",
+                "lighthouse": "Score Lighthouse 95+",
+                "images": "Images Optimisées"
+            }
+        },
+        "seo": {
+            "title": "Excellence SEO",
+            "description": "Optimisation SEO intégrée avec balises meta, données structurées et HTML sémantique.",
+            "details": "Notre stratégie SEO inclut l'optimisation complète des balises meta, l'implémentation de markup schema, une structure HTML sémantique et la génération automatique de sitemap pour maximiser votre visibilité.",
+            "whyMatters": "Une optimisation SEO efficace génère une croissance substantielle du trafic organique, augmentant souvent la visibilité et les visites de 50-100 % tout en créant une présence durable et économique dans les résultats de recherche.",
+            "metrics": {
+                "meta": "Optimisation Meta",
+                "schema": "Markup Schema",
+                "sitemap": "Génération de Sitemap"
+            }
+        },
+        "scalable": {
+            "title": "Architecture Évolutive",
+            "description": "Infrastructure cloud-native qui grandit avec vos besoins métier.",
+            "details": "Construite sur une architecture cloud-native avec auto-scaling, équilibrage de charge et intégration CDN pour gérer les pics de trafic et assurer une performance constante.",
+            "whyMatters": "Une architecture évolutive permet à votre application de gérer les pics de trafic et la croissance sans dégradation de performance ni réécritures coûteuses.",
+            "metrics": {
+                "scaling": "Auto-scaling",
+                "balancing": "Équilibrage de Charge",
+                "cdn": "Intégration CDN"
+            }
+        },
+        "security": {
+            "title": "Sécurité Renforcée",
+            "description": "Pratiques de sécurité conformes aux standards de l'industrie pour protéger vos données et utilisateurs.",
+            "details": "Nous implémentons des mesures de sécurité complètes incluant chiffrement HTTPS/SSL, transmission sécurisée, protocoles d'authentification et audits réguliers.",
+            "whyMatters": "Les violations de données coûtent en moyenne des millions aux entreprises. Des mesures de sécurité robustes protègent les données sensibles, maintiennent la confiance client et évitent des dommages financiers et réputationnels graves.",
+            "metrics": {
+                "https": "HTTPS/SSL",
+                "encryption": "Chiffrement des Données",
+                "auth": "Authentification Sécurisée"
+            }
+        },
+        "learnMore": "En Savoir Plus",
+        "closeModal": "Fermer"
+    },
+    "clients": {
+        "title": "Nos Clients",
+        "subtitle": "Fait confiance par des entreprises leaders mondiales",
+        "testimonials": "Témoignages Clients"
+    },
+    "templates": {
+        "title": "Modèles & Démonstrations",
+        "subtitle": "Explorez nos solutions pré-construites",
+        "viewDemo": "Voir la Démo",
+        "useTemplate": "Utiliser le Modèle",
+        "items": {
+            "ecommerce": {
+                "title": "Démarreur E-Commerce",
+                "description": "Boutique en ligne complète avec panier, paiement et intégration de paiement"
+            },
+            "saas": {
+                "title": "Tableau de Bord SaaS",
+                "description": "Tableau de bord moderne avec analyses, gestion utilisateurs et facturation"
+            },
+            "blog": {
+                "title": "Plateforme Blog",
+                "description": "Blog optimisé SEO avec intégration CMS et système de commentaires"
+            },
+            "booking": {
+                "title": "Système de Réservation",
+                "description": "Planification de rendez-vous avec synchronisation calendrier et notifications"
+            },
+            "portfolio": {
+                "title": "Site Portfolio",
+                "description": "Présentez votre travail avec de belles animations et transitions"
+            },
+            "chatbot": {
+                "title": "Interface Chatbot IA",
+                "description": "Chatbot de service client avec traitement du langage naturel"
+            }
+        }
+    },
+    "about": {
+        "title": "Pourquoi Nous Choisir",
+        "subtitle": "Nous combinons expertise technique et sens des affaires pour livrer des solutions qui génèrent des résultats",
+        "values": {
+            "client": {
+                "title": "Centré Client",
+                "description": "Votre succès est notre priorité. Nous travaillons en étroite collaboration pour comprendre et atteindre vos objectifs."
+            },
+            "quality": {
+                "title": "Excellence Qualité",
+                "description": "Nous livrons des solutions de haute qualité en utilisant les meilleures pratiques et technologies de pointe."
+            },
+            "goal": {
+                "title": "Orienté Objectifs",
+                "description": "Chaque projet est piloté par des résultats mesurables et objectifs métier."
+            },
+            "innovation": {
+                "title": "Innovation Continue",
+                "description": "Nous restons à la pointe en adoptant les dernières technologies et méthodologies."
+            }
+        },
+        "process": {
+            "title": "Notre Processus",
+            "discovery": {
+                "title": "Découverte",
+                "description": "Comprendre vos besoins et objectifs métier"
+            },
+            "planning": {
+                "title": "Planification",
+                "description": "Créer une feuille de route et stratégie détaillée"
+            },
+            "development": {
+                "title": "Développement",
+                "description": "Construire votre solution avec méthodologie agile"
+            },
+            "launch": {
+                "title": "Lancement & Support",
+                "description": "Déployer et fournir une maintenance continue"
+            }
+        }
+    },
+    "registration": {
+        "title": "Démarrez Votre Projet Aujourd'hui",
+        "subtitle": "Prêt à transformer votre présence numérique ? Remplissez le formulaire et notre équipe vous répondra sous 24 heures.",
+        "benefits": {
+            "consultation": {
+                "title": "Consultation Gratuite",
+                "description": "Discutez de vos besoins projet avec nos experts"
+            },
+            "proposal": {
+                "title": "Proposition Personnalisée",
+                "description": "Recevez une solution adaptée à vos besoins métier"
+            },
+            "pricing": {
+                "title": "Tarification Transparente",
+                "description": "Prix clairs et sans frais cachés"
+            },
+            "support": {
+                "title": "Support Continu",
+                "description": "Support dédié tout au long du développement et au-delà"
+            }
+        },
+        "form": {
+            "title": "Commencer",
+            "subtitle": "Parlez-nous de votre projet et nous vous contacterons",
+            "name": "Nom Complet",
+            "email": "Email",
+            "company": "Nom de l'Entreprise",
+            "service": "Service Intéressé",
+            "servicePlaceholder": "Sélectionner un service",
+            "message": "Détails du Projet",
+            "messagePlaceholder": "Parlez-nous de vos besoins projet...",
+            "submit": "Envoyer la Demande",
+            "submitted": "Envoyé",
+            "services": {
+                "ecommerce": "Solution E-Commerce",
+                "blog": "Plateforme Blog & Contenu",
+                "booking": "Système de Réservation",
+                "presentation": "Site de Présentation",
+                "aiAssistant": "Assistant IA",
+                "aiCustomer": "Service Client IA",
+                "custom": "Solution Personnalisée"
+            },
+            "successMessage": "Demande envoyée avec succès ! Nous vous contacterons bientôt."
+        }
+    },
+    "footer": {
+        "description": "Solutions de développement web modernes basées sur le cloud pour les entreprises. Spécialisé en Next.js, React, MongoDB et GraphQL.",
+        "services": "Services",
+        "company": "Entreprise",
+        "technologies": "Technologies",
+        "contact": {
+            "email": "nivnet.ir@gmail.com",
+            "phone": "+98 xxx xxx xxxx",
+            "location": "Téhéran, Iran"
+        },
+        "copyright": "NivNet. Tous droits réservés."
+    }
+}

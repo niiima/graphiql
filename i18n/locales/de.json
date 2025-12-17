@@ -1,0 +1,325 @@
+{
+    "nav": {
+        "services": "Dienstleistungen",
+        "solutions": "Lösungen",
+        "clients": "Kunden",
+        "templates": "Vorlagen",
+        "about": "Über uns",
+        "contact": "Kontakt",
+        "getStarted": "Loslegen"
+    },
+    "hero": {
+        "badge": "Cloud-basierte Entwicklungslösungen",
+        "title": "Moderne Web",
+        "titleHighlight": "Entwicklung",
+        "titleEnd": "Für Ihr Unternehmen",
+        "description": "Wir entwickeln hochperformante Webanwendungen mit Next.js, React, MongoDB und GraphQL. Optimiert für SEO, Geschwindigkeit und Skalierbarkeit.",
+        "startProject": "Ihr Projekt starten",
+        "viewSolutions": "Lösungen ansehen",
+        "stats": {
+            "projects": "Abgeschlossene Projekte",
+            "clients": "Zufriedene Kunden",
+            "satisfaction": "Zufriedenheitsrate"
+        },
+        "features": {
+            "nextjs": "Next.js & React",
+            "cloud": "Cloud-Native",
+            "seo": "SEO-optimiert",
+            "graphql": "GraphQL-API"
+        }
+    },
+    "services": {
+        "title": "Unsere Dienstleistungen",
+        "subtitle": "Umfassende Webentwicklungslösungen, maßgeschneidert auf Ihre Geschäftsanforderungen",
+        "ecommerce": {
+            "title": "E-Commerce-Lösungen",
+            "description": "Vollständige Online-Shops mit sicheren Zahlungen, Lagerverwaltung und nahtlosem Checkout-Erlebnis.",
+            "features": {
+                "payment": "Zahlungsintegration",
+                "product": "Produktverwaltung",
+                "analytics": "Kundenanalysen"
+            }
+        },
+        "blog": {
+            "title": "Blog- & Content-Plattformen",
+            "description": "Dynamische Content-Management-Systeme mit SEO-Optimierung und ansprechenden Leseerlebnissen.",
+            "features": {
+                "cms": "CMS-Integration",
+                "seo": "SEO-optimiert",
+                "analytics": "Content-Analysen"
+            }
+        },
+        "booking": {
+            "title": "Buchungssysteme",
+            "description": "Optimierte Termin- und Reservierungssysteme mit Kalenderintegration und automatisierten Benachrichtigungen.",
+            "features": {
+                "calendar": "Kalendersynchronisation",
+                "reminders": "Automatisierte Erinnerungen",
+                "payment": "Zahlungsabwicklung"
+            }
+        },
+        "presentation": {
+            "title": "Präsentations-Websites",
+            "description": "Moderne, responsive Websites, die Ihre Marke mit beeindruckenden Visuals und flüssigen Interaktionen präsentieren.",
+            "features": {
+                "responsive": "Responsive Design",
+                "fast": "Schnelles Laden",
+                "modern": "Modernes UI/UX"
+            }
+        },
+        "aiAssistant": {
+            "title": "KI-Assistenten-Integration",
+            "description": "Intelligente Chatbots und virtuelle Assistenten, angetrieben von fortschrittlicher KI, um Nutzerengagement und Support zu verbessern.",
+            "features": {
+                "nlp": "Natürliche Sprachverarbeitung",
+                "24/7": "24/7 Verfügbarkeit",
+                "learning": "Maschinelles Lernen"
+            }
+        },
+        "aiCustomer": {
+            "title": "KI-Kundenservice",
+            "description": "Automatisierte Kundensupportsysteme mit KI-gesteuerten Antworten, Ticketverwaltung und Stimmungsanalyse.",
+            "features": {
+                "automation": "Intelligente Automatisierung",
+                "multilingual": "Mehrsprachiger Support",
+                "analytics": "Verhaltensanalysen"
+            }
+        },
+        "items": {
+            "ecommerce": {
+                "title": "E-Commerce-Lösungen",
+                "description": "Vollständige Online-Shops mit sicheren Zahlungen, Lagerverwaltung und nahtlosem Checkout-Erlebnis."
+            },
+            "blog": {
+                "title": "Blog- & Content-Plattformen",
+                "description": "Dynamische Content-Management-Systeme mit SEO-Optimierung und ansprechenden Leseerlebnissen."
+            },
+            "booking": {
+                "title": "Buchungssysteme",
+                "description": "Optimierte Termin- und Reservierungssysteme mit Kalenderintegration und automatisierten Benachrichtigungen."
+            },
+            "presentation": {
+                "title": "Präsentations-Websites",
+                "description": "Moderne, responsive Websites, die Ihre Marke mit beeindruckenden Visuals und flüssigen Interaktionen präsentieren."
+            }
+        },
+        "seoTitle": "SEO-Optimierung",
+        "seoDescription": "Fortgeschrittene SEO-Techniken zur Verbesserung Ihrer Suchmaschinenplatzierung und Sichtbarkeit.",
+        "microTitle": "Mikro-Optimierungen",
+        "microDescription": "Performance-Feinabstimmung für blitzschnelle Ladezeiten und flüssiges Nutzererlebnis."
+    },
+    "solutions": {
+        "title": "Unsere Lösungen",
+        "subtitle": "Moderner Technologie-Stack und Best Practices für herausragende Ergebnisse",
+        "clickForDetails": "Klicken für weitere Details →",
+        "modal": {
+            "detailedInfo": "Detaillierte Informationen",
+            "keyFeatures": "Wichtige Kennzahlen & Vorteile",
+            "whyMatters": "Warum Es Wichtig Ist"
+        },
+        "tabs": {
+            "frontend": "Frontend",
+            "backend": "Backend",
+            "cloud": "Cloud & DevOps"
+        },
+        "frontend": {
+            "nextjs": "Server-Side Rendering und statische Seitengenerierung",
+            "react": "Komponentenbasierte UI-Entwicklung",
+            "typescript": "Typsichere Entwicklung",
+            "tailwind": "Utility-First Styling"
+        },
+        "backend": {
+            "nodejs": "JavaScript-Laufzeitumgebung",
+            "graphql": "Effiziente API-Abfragen und Mutationen",
+            "mongodb": "Flexible NoSQL-Datenbank",
+            "rest": "Traditionelle API-Architektur"
+        },
+        "cloud": {
+            "vercel": "Next.js-Deploy-Plattform",
+            "aws": "Cloud-Infrastrukturdienste",
+            "atlas": "Cloud-Datenbank-Hosting",
+            "cicd": "Automatisierte Deployment-Pipelines"
+        },
+        "performance": {
+            "title": "Performance First",
+            "description": "Blitzschnelle Ladezeiten durch Code-Splitting, Lazy-Loading und optimierte Assets.",
+            "details": "Wir setzen fortschrittliche Optimierungstechniken ein, darunter Server-Side Rendering, Code-Splitting, Lazy-Loading und Bildoptimierung, um Ladezeiten unter 1 Sekunde zu gewährleisten.",
+            "whyMatters": "Schnelle Ladezeiten beeinflussen direkt das Nutzererlebnis und die Conversion-Raten. Eine Verzögerung von 1 Sekunde kann Conversions um bis zu 7 % reduzieren und erhebliche Umsatzeinbußen verursachen.",
+            "metrics": {
+                "load": "< 1s Ladezeit",
+                "lighthouse": "95+ Lighthouse-Score",
+                "images": "Optimierte Bilder"
+            }
+        },
+        "seo": {
+            "title": "SEO-Exzellenz",
+            "description": "Integrierte SEO-Optimierung mit Meta-Tags, strukturierten Daten und semantischem HTML.",
+            "details": "Unsere SEO-Strategie umfasst vollständige Meta-Tag-Optimierung, Schema-Markup-Implementierung, semantische HTML-Struktur und automatisierte Sitemap-Generierung für maximale Suchmaschinensichtbarkeit.",
+            "whyMatters": "Effektive SEO-Optimierung treibt erhebliches organisches Traffic-Wachstum voran und steigert Sichtbarkeit sowie Besuche oft um 50–100 %, während sie eine langfristige, kosteneffiziente Präsenz in Suchergebnissen schafft.",
+            "metrics": {
+                "meta": "Meta-Optimierung",
+                "schema": "Schema-Markup",
+                "sitemap": "Sitemap-Generierung"
+            }
+        },
+        "scalable": {
+            "title": "Skalierbare Architektur",
+            "description": "Cloud-native Infrastruktur, die mit Ihren Geschäftsanforderungen wächst.",
+            "details": "Basierend auf cloud-nativer Architektur mit Auto-Scaling, Load-Balancing und CDN-Integration, um Traffic-Spitzen zu bewältigen und konsistente Performance zu gewährleisten.",
+            "whyMatters": "Skalierbare Architektur ermöglicht es Ihrer Anwendung, Traffic-Spitzen und Wachstum nahtlos zu handhaben, verhindert Performance-Probleme, Ausfälle und kostspielige zukünftige Überarbeitungen.",
+            "metrics": {
+                "scaling": "Auto-Scaling",
+                "balancing": "Load-Balancing",
+                "cdn": "CDN-Integration"
+            }
+        },
+        "security": {
+            "title": "Sicherheitsfokus",
+            "description": "Branchenstandard-Sicherheitspraktiken zum Schutz Ihrer Daten und Nutzer.",
+            "details": "Wir implementieren umfassende Sicherheitsmaßnahmen wie HTTPS/SSL-Verschlüsselung, sichere Datenübertragung, Authentifizierungsprotokolle und regelmäßige Sicherheitsaudits.",
+            "whyMatters": "Datenlecks kosten Unternehmen im Durchschnitt Millionen. Robuste Sicherheitsmaßnahmen schützen sensible Daten, erhalten das Kundenvertrauen und vermeiden schwere finanzielle sowie reputatorische Schäden.",
+            "metrics": {
+                "https": "HTTPS/SSL",
+                "encryption": "Datenverschlüsselung",
+                "auth": "Sichere Authentifizierung"
+            }
+        },
+        "learnMore": "Mehr erfahren",
+        "closeModal": "Schließen"
+    },
+    "clients": {
+        "title": "Unsere Kunden",
+        "subtitle": "Vertrauen von führenden Unternehmen weltweit",
+        "testimonials": "Kundenreferenzen"
+    },
+    "templates": {
+        "title": "Vorlagen & Demos",
+        "subtitle": "Entdecken Sie unsere vorgefertigten Lösungen",
+        "viewDemo": "Demo ansehen",
+        "useTemplate": "Vorlage nutzen",
+        "items": {
+            "ecommerce": {
+                "title": "E-Commerce-Starter",
+                "description": "Kompletter Online-Shop mit Warenkorb, Checkout und Zahlungsintegration"
+            },
+            "saas": {
+                "title": "SaaS-Dashboard",
+                "description": "Modernes Dashboard mit Analysen, Nutzerverwaltung und Abrechnung"
+            },
+            "blog": {
+                "title": "Blog-Plattform",
+                "description": "SEO-optimierter Blog mit CMS-Integration und Kommentarsystem"
+            },
+            "booking": {
+                "title": "Buchungssystem",
+                "description": "Terminplanung mit Kalendersynchronisation und Benachrichtigungen"
+            },
+            "portfolio": {
+                "title": "Portfolio-Website",
+                "description": "Präsentieren Sie Ihre Arbeiten mit schönen Animationen und Übergängen"
+            },
+            "chatbot": {
+                "title": "KI-Chatbot-Schnittstelle",
+                "description": "Kundenservice-Chatbot mit natürlicher Sprachverarbeitung"
+            }
+        }
+    },
+    "about": {
+        "title": "Warum uns wählen",
+        "subtitle": "Wir verbinden technisches Know-how mit Geschäftssinn, um Lösungen zu liefern, die Ergebnisse bringen",
+        "values": {
+            "client": {
+                "title": "Kundenorientiert",
+                "description": "Ihr Erfolg hat bei uns oberste Priorität. Wir arbeiten eng mit Ihnen zusammen, um Ihre Ziele zu verstehen und zu erreichen."
+            },
+            "quality": {
+                "title": "Qualitäts-Exzellenz",
+                "description": "Wir liefern hochwertige Lösungen unter Einsatz von Best Practices und modernsten Technologien."
+            },
+            "goal": {
+                "title": "Zielorientiert",
+                "description": "Jedes Projekt wird von messbaren Ergebnissen und Geschäftsziele gesteuert."
+            },
+            "innovation": {
+                "title": "Kontinuierliche Innovation",
+                "description": "Wir bleiben an der Spitze, indem wir die neuesten Technologien und Methoden übernehmen."
+            }
+        },
+        "process": {
+            "title": "Unser Prozess",
+            "discovery": {
+                "title": "Entdeckung",
+                "description": "Verständnis Ihrer Geschäftsanforderungen und Ziele"
+            },
+            "planning": {
+                "title": "Planung",
+                "description": "Erstellung eines detaillierten Roadmaps und Strategie"
+            },
+            "development": {
+                "title": "Entwicklung",
+                "description": "Aufbau Ihrer Lösung mit agiler Methodik"
+            },
+            "launch": {
+                "title": "Launch & Support",
+                "description": "Bereitstellung und fortlaufende Wartung"
+            }
+        }
+    },
+    "registration": {
+        "title": "Starten Sie Ihr Projekt heute",
+        "subtitle": "Bereit, Ihre digitale Präsenz zu transformieren? Füllen Sie das Formular aus – unser Team meldet sich innerhalb von 24 Stunden.",
+        "benefits": {
+            "consultation": {
+                "title": "Kostenlose Beratung",
+                "description": "Besprechen Sie Ihre Projektanforderungen mit unseren Experten"
+            },
+            "proposal": {
+                "title": "Maßgeschneidertes Angebot",
+                "description": "Erhalten Sie eine auf Ihre Bedürfnisse zugeschnittene Lösung"
+            },
+            "pricing": {
+                "title": "Transparente Preise",
+                "description": "Klare, vorab festgelegte Preise ohne versteckte Kosten"
+            },
+            "support": {
+                "title": "Laufender Support",
+                "description": "Dedizierter Support während der Entwicklung und darüber hinaus"
+            }
+        },
+        "form": {
+            "title": "Loslegen",
+            "subtitle": "Erzählen Sie uns von Ihrem Projekt – wir melden uns bei Ihnen",
+            "name": "Vollständiger Name",
+            "email": "E-Mail",
+            "company": "Firmenname",
+            "service": "Gewünschter Service",
+            "servicePlaceholder": "Service auswählen",
+            "message": "Projektdetails",
+            "messagePlaceholder": "Beschreiben Sie Ihre Projektanforderungen…",
+            "submit": "Anfrage senden",
+            "submitted": "Gesendet",
+            "services": {
+                "ecommerce": "E-Commerce-Lösung",
+                "blog": "Blog- & Content-Plattform",
+                "booking": "Buchungssystem",
+                "presentation": "Präsentations-Website",
+                "aiAssistant": "KI-Assistent",
+                "aiCustomer": "KI-Kundenservice",
+                "custom": "Individuelle Lösung"
+            },
+            "successMessage": "Anfrage erfolgreich gesendet! Wir melden uns bald bei Ihnen."
+        }
+    },
+    "footer": {
+        "description": "Moderne cloud-basierte Webentwicklungslösungen für Unternehmen. Spezialisiert auf Next.js, React, MongoDB und GraphQL.",
+        "services": "Dienstleistungen",
+        "company": "Unternehmen",
+        "technologies": "Technologien",
+        "contact": {
+            "email": "nivnet.ir@gmail.com",
+            "phone": "+98 xxx xxx xxxx",
+            "location": "Teheran, Iran"
+        },
+        "copyright": "NivNet. Alle Rechte vorbehalten."
+    }
+}

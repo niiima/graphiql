@@ -1,0 +1,57 @@
+{
+  "translation": {
+    "common": {
+      "home": "Home",
+      "blog": "Blog",
+      "about": "About",
+      "explore_articles": "Explore Articles",
+      "about_us": "About Us",
+      "view_all": "View All",
+      "subscribe": "Subscribe",
+      "subscribed": "Subscribed! ✓",
+      "thanks_subscribing": "Thanks for subscribing! Check your inbox for confirmation.",
+      "enter_email": "Enter your email",
+      "stay_updated": "Stay Updated",
+      "privacy_policy": "Privacy Policy",
+      "terms_of_service": "Terms of Service"
+    },
+    "nav": {
+      "home": "Home",
+      "blog": "Blog",
+      "about": "About"
+    },
+    "hero": {
+      "latest_insights": "Latest insights & stories",
+      "headline1": "Insights on Web Development",
+      "headline2": "& Innovation",
+      "description": "Explore the latest in Next.js, React, Tailwind CSS, and modern web technologies. Stories from our engineering team."
+    },
+    "featured": {
+      "title": "Featured Articles",
+      "subtitle": "Hand-picked stories from our community"
+    },
+    "recent": {
+      "title": "Recent Posts",
+      "subtitle": "Latest articles and tutorials"
+    },
+    "newsletter": {
+      "badge": "Stay Updated",
+      "title": "Subscribe to Our Newsletter",
+      "description": "Get the latest articles and insights delivered to your inbox. No spam, unsubscribe anytime."
+    },
+    "footer": {
+      "description": "Insights on modern web development and innovation.",
+      "product": "Product",
+      "features": "Features",
+      "documentation": "Documentation",
+      "company": "Company",
+      "team": "Team",
+      "careers": "Careers",
+      "resources": "Resources",
+      "newsletter_footer": "Newsletter",
+      "contact": "Contact",
+      "support": "Support",
+      "copyright": "© 2025 DevBlog. All rights reserved."
+    }
+  }
+}
